@@ -1,0 +1,1 @@
+A comprehensive cloud architecture demonstration application that showcases skills in AI, cloud infrastructure, and enterprise systems. This will be a multi-component architecture visualizer with real-time monitoring capabilities.
