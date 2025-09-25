@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies used (React, Tailwind, AI/ML concepts)
+Architecture patterns demonstrated
+Real-time monitoring capabilities
+Multi-region deployment simulation
+
+What This Demonstrates:
+✅ Cloud Architecture Knowledge - Multi-tier design, CDN, microservices
+✅ AI/ML Integration - RAG agents, real-time insights
+✅ Enterprise Systems - Monitoring, deployments, cost optimization
+✅ Technical Leadership - Executive-level dashboards
+✅ Oracle Expertise - Database integration shown in architecture
+
 ## Available Scripts
 
 In the project directory, you can run:
