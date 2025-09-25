@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Cloud, Database, Server, Shield, Zap, BarChart3, Brain, Users, Settings, Monitor, AlertTriangle, CheckCircle, Activity } from 'lucide-react';
 
-const CloudArchitectDemo = () => {
+function App() {
   const [activeTab, setActiveTab] = useState('overview');
   const [metrics, setMetrics] = useState({
     uptime: 99.94,
@@ -94,6 +94,7 @@ const CloudArchitectDemo = () => {
             </h1>
           </div>
           <p className="text-gray-300">Real-time monitoring and AI-powered optimization for multi-region cloud infrastructure</p>
+          <p className="text-sm text-gray-400 mt-2">Designed by Christopher Logan - Principal Cloud Architect</p>
         </div>
 
         {/* Navigation */}
@@ -431,6 +432,6 @@ const CloudArchitectDemo = () => {
       </div>
     </div>
   );
-};
+}
 
-export default CloudArchitectDemo;
+export default App;
